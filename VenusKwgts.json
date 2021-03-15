@@ -1,0 +1,22 @@
+{
+  "wallpapers": [
+    {
+      "author": "kaljabri",
+      "url": "https://github.com/kaljabri2005/VenusWalls/raw/main/blob-scene-haikei%20(2).png",
+      "name": "wall 01",
+      "thumbnail": "https://github.com/kaljabri2005/VenusWalls/raw/main/blob-scene-haikei%20(2).png"
+    },
+    {
+      "author": "kaljabri",
+      "url": "https://raw.githubusercontent.com/kaljabri2005/VenusWalls/main/blob-scene-haikei%20(1).png",
+      "name": "wall 02",
+      "thumbnail": "https://raw.githubusercontent.com/kaljabri2005/VenusWalls/main/blob-scene-haikei%20(1).png"
+    },
+    {
+      "author": "kaljabri",
+      "url": "https://github.com/kaljabri2005/VenusWalls/raw/main/blob-scene-haikei%20(4).png",
+      "name": "wall 03",
+      "thumbnail": "https://github.com/kaljabri2005/VenusWalls/raw/main/blob-scene-haikei%20(4).png"
+    }
+  ]
+}
